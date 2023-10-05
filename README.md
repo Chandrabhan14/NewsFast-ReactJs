@@ -1,1 +1,1 @@
-# WorldNews-ReactJs
+# NewsFast-Reactjs news webapp
